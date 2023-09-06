@@ -25,7 +25,7 @@ Next, describe your application idea. Your application idea should be simple and
 Find 4 random songs based on (mood) suggestion.
 Write 3 - 5 user stories for your application. Include each below.
 
-> 1. As a user ...
+> 1. As a user ... Find a movie by name 
 
 > 1. As a user ...
 
